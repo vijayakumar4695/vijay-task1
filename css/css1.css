@@ -1,0 +1,105 @@
+*{
+ padding:0px;
+margin:0px
+}
+
+body{
+width:100%
+}
+.header {
+background:blue;
+overflow:hidden;
+padding:5px;
+}
+.menu{
+padding:20px;
+}
+#list1{
+float:left
+}
+#list2{
+float:right
+}
+ul{
+list-style-type:none
+}
+
+
+
+ul{
+list-style-type:none
+}
+
+.content{
+  width:100%;
+  background:black;
+  text-align:left;
+}
+.aside{
+  width:30%;
+background:lightblue;
+float:left;
+height:600px;
+font-size:40px;
+}
+.aside ul li:hover{
+background:blue;
+color:white;
+border:2px solid black;
+}
+.para{
+width:70%;
+float:left;
+background:grey;
+text-align: justify;
+}
+.para1{
+width:70%;
+height:600px;
+float:left;
+background:grey;
+overflow-y:scroll;
+}
+.para p{
+padding:10px;
+}
+.footer {
+width:100%;
+background-color:blue;
+color:white;
+font-size:20px;
+text-align:center;
+overflow:hidden;
+text decoration:none;
+padding:20px;
+}
+.box1{
+float:left;
+padding:30px;
+width:35%;
+}
+.box11{
+width:70%;
+height:500px;
+padding:20px;
+float:left;
+border:2px solid black;
+}
+.box12{
+width:70%;
+height:500px;
+padding:20px;
+float:left;
+border:2px solid black;
+}
+.box2{
+width:35%;
+padding:30px;
+float:left
+}
+a {
+text-decoration:none;
+}
+.para1 h1 {
+text-align:center;
+}

@@ -1,0 +1,103 @@
+*{
+ padding:0px;
+margin:0px
+}
+
+body{
+width:100%
+}
+.header{
+
+background:blue;
+overflow:hidden;
+padding:5px;
+}
+.menu{
+padding:20px;
+}
+#list1{
+float:left
+}
+#list2{
+float:right
+}
+ul{
+list-style-type:none
+}
+
+
+
+ul{
+list-style-type:none
+}
+
+.content{
+  width:100%;
+  background:white;
+  text-align:left;
+}
+.aside{
+  width:30%;
+background:lightblue;
+float:left;
+height:480px;
+font-size:40px;
+}
+.aside ul li:hover{
+background:blue;
+color:white;
+border:2px solid black;
+}
+.para{
+width:70%;
+height:480px;
+float:left;
+background:violet;
+
+}
+.para p{
+padding:95px;
+}
+.footer{
+background-color:blue;
+color:white;
+font-size:20px;
+text-align:center;
+text-decoration:none;
+padding:20px;
+}
+ input[type=text] {
+   width:30%;
+   padding:15px 100px;
+   background-color:lightblue;
+   border: 2px solid black;
+   border-radius:35px;
+   color:red;
+   font-size:20px;
+   text-align:center;
+   cursor:pointer;
+}
+a {
+text-decoration:none;
+}
+
+.footer p {
+text-align:center;
+text-decoration:none;
+}
+.para input{
+position: relative;
+}
+.para lable{
+position: absolute;
+left:500px;
+top:280px;
+}
+.para #mail input{
+position: relative;
+}
+.para #mail{
+position: absolute;
+left:500px;
+top:380px;
+}
